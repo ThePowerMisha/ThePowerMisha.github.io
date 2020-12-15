@@ -1,0 +1,32 @@
+.post-category,
+.link-more{
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.post-title{
+    color: #626262;
+}
+p{
+    line-height: 1.5rem;
+}
+
+h2,h3{
+    margin: 1rem 0;
+    font-size: 30px;
+}
+.grid-post{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-post .card{
+    border: 0;
+}
+
+.grid-post .card-body{
+    padding-left: 0;
+    padding-right: 0;
+    height: 200px;
+}
